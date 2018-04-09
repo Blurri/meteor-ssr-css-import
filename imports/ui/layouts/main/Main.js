@@ -1,4 +1,5 @@
 import React from 'react';
+import 'slick-carousel/slick/slick.css';
 import { connect } from 'react-redux';
 import { element, oneOfType, arrayOf, object } from 'prop-types';
 import { Link } from 'react-router-dom';
